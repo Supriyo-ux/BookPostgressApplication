@@ -1,2 +1,2 @@
-# BookPostgressApplication
-Spring Boot using Postgress SQL
+# BookRepository
+Spring Boot Sample Project
